@@ -1,0 +1,2 @@
+# Bungeesentials
+BungeeCord essentials plugin
