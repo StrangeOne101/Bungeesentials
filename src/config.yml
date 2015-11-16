@@ -1,0 +1,8 @@
+fallback: lobby
+# This is the fallback server when a subserver is restarted
+
+ShowMessage: true
+# This shows the message when kicked, feel free to set this to true or false.
+
+KickMessage: &cYou were kicked to the lobby.
+# This is the kick message if the above configuration file is set to false, feel free to set it to your liking.

@@ -1,0 +1,4 @@
+name: ProxyKick
+main: net.empshock.proxykick.Main
+version: 1.0.0
+description: This kicks players to the fallback lobby!
